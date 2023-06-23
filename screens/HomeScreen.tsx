@@ -19,8 +19,8 @@ const HomeScreen = () => {
         <Image source={{ uri: "https://indiehoy.com/wp-content/uploads/2022/01/sigrid.jpg" }}
           className="h-7 w-7 bg-gray-300 p-4 rounded-full" />
       <View>
-        <Text className='font-bold text-gray-400 text-xs'>Deliver now!</Text>
-        <Text className='font-bold text-xl'>Current location <ChevronDownIcon size={20}/></Text>
+        <Text className='font-bold text-gray-400 text-xs'>Delivery ahora!</Text>
+        <Text className='font-bold text-xl'>Ubicacion actual<ChevronDownIcon size={20}/></Text>
       </View>
       </View>
     </SafeAreaView>
